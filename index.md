@@ -1,6 +1,6 @@
 ## Volcengine
 
-[火山引擎](https://www.volcengine.cn/)
+[火山引擎](https://www.volcengine.com/)
 
 全球领先的智能技术引擎。
 
@@ -8,4 +8,4 @@
 
 ### Support or Contact
 
-Check out our [documentation](https://www.volcengine.cn/docs) or [contact support](https://www.volcengine.cn/contact) and we’ll help you sort it out.
+Check out our [documentation](https://www.volcengine.com/docs) or [contact support](https://www.volcengine.com/product/contact) and we’ll help you sort it out.
